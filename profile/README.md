@@ -206,6 +206,15 @@
         - 웹툰의 조회수, 좋아요 수, 댓글 수 등을 시각화하여 대시보드에 표시
         - Redshift에서 실시간 데이터를 연결하여 대시보드에서 시각화
     - 대시보드 예시
+        - 네이버 웹툰
+           
+             ![naver_d](https://github.com/user-attachments/assets/4abd751a-c5ff-44f8-8c16-1bcac2ca7487)
+
+        - 카카오 웹툰
+          
+             ![kakao_d](https://github.com/user-attachments/assets/9b4876c6-3946-47e4-9459-1d045902d067)
+
+
 - **Flask 웹 애플리케이션 구축**
     - **목표**: 웹툰 데이터를 Flask 웹 애플리케이션에서 사용자에게 제공
     - **사용 기술**: Flask, Gunicorn, Nginx, HTML, CSS, JavaScript
